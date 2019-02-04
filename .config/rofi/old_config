@@ -1,0 +1,14 @@
+rofi.color-enabled: true
+#rofi.color-window: argb: CC393939, argb: CC393939, argb: CC268bd2
+#rofi.color-normal: argb: CC393939, argb: CCffffff, argb: CC393939, argb: CC268bd2, argb: CCffffff
+#rofi.color-active: argb: CC393939, argb: CC268bd2, argb: CC393939, argb: CC268bd2, argb: CC205171
+#rofi.color-urgent: argb: CC393939, argb: CCf3843d, argb: CC393939, argb: CC268bd2, argb: CCffc39c
+#rofi.color-window: #393939, #393939, #268bd2
+#rofi.color-normal: #393939, #ffffff, #393939, #268bd2, #ffffff
+#rofi.color-active: #393939, #268bd2, #393939, #268bd2, #205171
+#rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
+
+rofi.color-window: argb: CC002b37, argb: CC002b37, argb: CC003642
+rofi.color-normal: argb: CC002b37, argb: CC819396, argb: CC003643, argb: CC008ed4, argb: CCffffff
+rofi.color-active: argb: CC002b37, argb: CC008ed4, argb: CC003643, argb: CC008ed4, argb: CC66c6ff
+rofi.color-urgent: argb: CC002b37, argb: CCda4281, argb: CC003643, argb: CC008ed4, argb: CC890661
