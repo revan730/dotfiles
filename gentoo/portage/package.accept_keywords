@@ -1,0 +1,4 @@
+x11-misc/pywal ~amd64
+x11-misc/pcmanfm ~amd64
+x11-libs/libfm ~amd64
+x11-misc/lightdm-slick-greeter ~amd64

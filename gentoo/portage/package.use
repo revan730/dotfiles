@@ -1,0 +1,7 @@
+ net-wireless/wpa_supplicant tkip
+ x11-misc/polybar i3wm ipc network pulseaudio
+ x11-terms/rxvt-unicode xft
+ x11-misc/lightdm vala
+ x11-drivers/nvidia-drivers tools
+ dev-util/vulkan-tools cube
+ sys-apps/bubblewrap -suid
